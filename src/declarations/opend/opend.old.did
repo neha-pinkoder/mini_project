@@ -1,0 +1,3 @@
+service : {
+  name: (vec nat8, text) -> (principal);
+}
